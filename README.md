@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjayreddy12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects related to web development
 - 📫 How to reach me  email:reddysanjay032@gmail.com
 
